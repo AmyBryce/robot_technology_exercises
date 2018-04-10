@@ -16,7 +16,7 @@
 %% font with T1 encoding.
 %%
 %\RequirePackage{t1enc}
-\RequirePackage[latin1]{inputenc}
+\RequirePackage[utf8]{inputenc}
 \RequirePackage{ifthen}
 %\RequirePackage[german]{babel}
 \RequirePackage{graphicx}
